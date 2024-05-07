@@ -10,10 +10,10 @@
 			  </a>
 			  <div class="nav-collapse collapse">
 				<ul class="nav">
-				  <li class="active home"><a href="index.php"><i class="icon-home icon-white"></i></a></li>
+				  <li class="active home"><a href="#"><i class="icon-home icon-white"></i></a></li>
 				  <li><a href="?page=pinjaman"><i class="icon-shopping-cart icon-white"></i> Pinjaman</a></li>
 				  <li><a href="?page=history"><i class="icon-calendar icon-white"></i> History Pinjaman</a></li>
-				  <li><a href="#about"><i class="icon-info-sign icon-white"></i> Bantuan</a></li>
+				  <li><a href="?page=bantuan"><i class="icon-info-sign icon-white"></i> Bantuan</a></li>
 				</ul>
 				<ul class="pull-right nav">
 					<li>
